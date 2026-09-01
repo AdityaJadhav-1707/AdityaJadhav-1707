@@ -13,13 +13,14 @@
   </p>
 
   <blockquote>
-    Early-career engineer with lots of curiosity and ambition. Try to Building production-grade software and applications demonstrating reliability, observability, and automation principles.
+    Early-career engineer with lots of curiosity and ambition. Try to build production-grade software and applications demonstrating reliability, observability, and automation principles.
   </blockquote>
 </div>
 
 # Yo!👋, I'm Aditya Jadhav 👨‍💻
 
-### Java Full Stack Developer | Spring Boot | REST APIs | MySQL | Cloud | DevOps
+### Java Full Stack Developer <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9effae84-b201-41b8-8098-fc1478872e70" /> | Spring Boot <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/3cd1783d-7df4-44ef-ad28-dd82d8cd012f" /> | REST APIs <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/88d2d2e0-fd6a-4a84-b8cc-a4ecfaf81788" /> | MySQL <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/44f4ab30-b267-4d70-b294-0155248159f3" /> | Cloud <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/ef5d74f2-a7c5-41b1-bb81-937f7fcccae6" /> | DevOps <img width="23" height="23" alt="image" src="https://github.com/user-attachments/assets/bbc1e9f8-aced-40b4-995b-df18cdbb4c47" />
+
 
 I'm an MCA graduate focused on **Java Full Stack Development**, with a strong interest in backend engineering and building practical web applications.
 
