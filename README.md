@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="J_SB.jpg" alt="GitHub Banner" width="100%" style="border-radius: 8px;" />
+  <img src="banner.png" alt="GitHub Banner" width="100%" style="border-radius: 10 px;" />
   
   <br><br>
   
